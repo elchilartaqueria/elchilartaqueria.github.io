@@ -114,6 +114,11 @@
       }
    ],
    "bebidas":{
+      "Cerveza_Copa":[
+      	{"name":"Caña","desc":"","price":"1.40","type":"static"},
+      	{"name":"Doble","desc":"","price":"2.30","type":"static"},
+		{"name":"Jarra","desc":"","price":"3.50","type":"static"}
+      ],
       "Cerveza_Botella":[
       	{"name":"Corona","desc":"|Corona 210ml|Corona 355ml","price":"1.90|2.90","type":"multiple"},
       	{"name":"Pacífico","desc":"355ml","price":"2.90","type":"static"},
@@ -131,11 +136,6 @@
          {"name":"Zumos","desc":"|Piña|Melocotón|Mosto","price":"2.00|2.00|2.00","type":"multiple"},
          {"name":"Aguas de sabores","desc":"|Jamaica|Horchata Mexicana|Tamarindo|Guayaba","price":"2.00|2.00|2.00|2.00","type":"multiple"},
          {"name":"Agua","desc":"|Sin gas|Con gas","price":"1.20|2.50","type":"multiple"}
-      ],
-      "Cerveza_Copa":[
-      	{"name":"Caña","desc":"","price":"1.40","type":"static"},
-      	{"name":"Doble","desc":"","price":"2.30","type":"static"},
-		{"name":"Jarra","desc":"","price":"3.50","type":"static"}
       ],
 	  "Cócteles":[
 	  	{"name":"Micheladas","desc":"","price":"6.00","type":"static"},
