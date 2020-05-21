@@ -1,0 +1,56 @@
+{
+	"entrantes":[
+		{"name":"Guacamole","desc":"","price":"4.5","type":"static"},
+		{"name":"Guacamole","desc":"con totopos","price":"6.50","type":"static"},
+		{"name":"Cazuela de Queso Fundido","desc":"acompañado con 4 tortillas de harina de trigo|Champiñones|Chorizo|Flor de Calabaza|Huitlacoche","price":"5.80|6.00|6.20|6.50","type":"multiple"},
+		{"name":"Nachos","desc":"|Ternera, frijoles y queso y pico de gallo|Chorizo, frijoles, queso y pico de gallo|Salsa de guacamole, queso y pico de gallo","price":"6.50|6.50|6.50","type":"multiple"},
+		{"name":"Flautas","desc":"(3 flautas con ensalada)|Pollo|Ternera","price":"5.00|5.00","type":"multiple"},
+		{"name":"Gringas","desc":"Adobado de cerdo con piña y queso con 2 tortillas de harina de trigo y guacamole","price":"5.00","type":"static"},
+		{"name":"Sincronizadas","desc":"Tortilla de harina con jamón york y queso","price":"5.00","type":"static"},
+		{"name":"Quesadillas","desc":"3 tortillas de maíz o harina de trigo con:|Champiñones|Tinga poblana (ternera y toque picante)|Chicharrón prensado|Flor de calabaza|Huitlacoche","price":"5.00|5.50|5.50|5.50|5.50","type":"static"}
+	],
+	"ensaladas":[
+		{"name":"Ensalada de la casa","desc":"","price":"7.50","type":"static"},
+		{"name":"Ensalada mexicana","desc":"con nopales, tomate, cebolla y queso feta","price":"7.50","type":"static"}
+	],
+	"platos_principales":[
+		{"name":"Burritos","desc":"3 burritos|Pollo|Ternera|Vegetariano","price":"9.00|9.00|8.00","type":"multiple"},
+		{"name":"Enchiladas","desc":"|Pollo con salsa roja|Pollo con salsa verde|Pollo con mole","price":"10.00|10.00|10.00","type":"multiple"},
+		{"name":"Fajitas","desc":"|Ternera|Pollo|Mixta: ternera y pollo","price":"10.00|10.00|10.00","type":"multiple"},
+		{"name":"Enchiladas","desc":"acompañado con 4 tortillas de harina de trigo|Pollo con salsa roja|Pollo con salsa verde|Pollo con mole","price":"10.00|10.00|10.00","type":"multiple"},
+	],
+	"tacos":[
+		{"name":"Pastor","desc":"3 tacos, con filete de cerdo asado con piña, cebolla y cilantro","price":"9.00","type":"static"},
+		{"name":"Cochinita Pibil estilo Yucatán","desc":"3 tacos, con magro de adobo de cerdo con cebolla morada y lima","price":"9.00","type":"static"},
+		{"name":"Chicharrón en salsa verde","desc":"3 tacos con chicharrón con tomatillo verde y chili de árbol","price":"10.00","type":"static"},
+		{"name":"Carnitas a la michoacana","desc":"3 tacos con adobo de cerdo con nopales y salsa de aguacate","price":"10.00","type":"static"},
+		{"name":"Alambre","desc":"4 tacos con filete de ternera, bacón, pimiento rojo y verde, y queso","price":"10.00","type":"static"},
+	],
+	"bebidas":{
+		"available":{
+			"Cerveza Botella":[
+				"Corona 210ml 1.90",
+				"Corona 355ml 2.90",
+				"Pacífico 355ml 2.90",
+				"Modelo_Especial 355ml 2.90",
+				"Negra_Modelo 355ml 2.90",
+				"Tropical (cerveza con limón) 333ml 2.70",
+				"Cerveza_sin_alcohol 333ml 2.70"
+			],
+			"Refrescos":[
+				"Coca Cola 2.00",
+				"Coca Cola Zero 2.00",
+				"Coca Cola Zero sin cafeína 2.00",
+				"Fanta Naranja 2.00",
+				"Fanta Limón 2.00",
+				"Nestea 2.20",
+				"Trina 2.20",
+				"Aquarius limón 2.20",
+				"Aquarius naranja 2.20",
+				"Zumo de Piña 2.00",
+				"Zumo de Melocotón 2.00",
+				"Mosto 2.00"
+			]
+		}
+	}
+}
