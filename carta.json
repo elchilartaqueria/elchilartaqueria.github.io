@@ -122,30 +122,28 @@
       }
    ],
    "bebidas":{
-      "available":{
-         "Cerveza Botella":[
-            "Corona 210ml 1.90",
-            "Corona 355ml 2.90",
-            "Pacífico 355ml 2.90",
-            "Modelo_Especial 355ml 2.90",
-            "Negra_Modelo 355ml 2.90",
-            "Tropical (cerveza con limón) 333ml 2.70",
-            "Cerveza_sin_alcohol 333ml 2.70"
-         ],
-         "Refrescos":[
-            "Coca Cola 2.00",
-            "Coca Cola Zero 2.00",
-            "Coca Cola Zero sin cafeína 2.00",
-            "Fanta Naranja 2.00",
-            "Fanta Limón 2.00",
-            "Nestea 2.20",
-            "Trina 2.20",
-            "Aquarius limón 2.20",
-            "Aquarius naranja 2.20",
-            "Zumo de Piña 2.00",
-            "Zumo de Melocotón 2.00",
-            "Mosto 2.00"
-         ]
-      }
+      "Cerveza Botella":[
+         "Corona 210ml 1.90",
+         "Corona 355ml 2.90",
+         "Pacífico 355ml 2.90",
+         "Modelo_Especial 355ml 2.90",
+         "Negra_Modelo 355ml 2.90",
+         "Tropical (cerveza con limón) 333ml 2.70",
+         "Cerveza_sin_alcohol 333ml 2.70"
+      ],
+      "Refrescos":[
+         "Coca Cola 2.00",
+         "Coca Cola Zero 2.00",
+         "Coca Cola Zero sin cafeína 2.00",
+         "Fanta Naranja 2.00",
+         "Fanta Limón 2.00",
+         "Nestea 2.20",
+         "Trina 2.20",
+         "Aquarius limón 2.20",
+         "Aquarius naranja 2.20",
+         "Zumo de Piña 2.00",
+         "Zumo de Melocotón 2.00",
+         "Mosto 2.00"
+      ]
    }
 }
