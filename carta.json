@@ -72,19 +72,13 @@
       },
       {
          "name":"Enchiladas",
-         "desc":"|Pollo con salsa roja|Pollo con salsa verde|Pollo con mole",
+         "desc":"acompañado con 4 tortillas de harina de trigo|Pollo con salsa roja|Pollo con salsa verde|Pollo con mole",
          "price":"10.00|10.00|10.00",
          "type":"multiple"
       },
       {
          "name":"Fajitas",
          "desc":"|Ternera|Pollo|Mixta: ternera y pollo",
-         "price":"10.00|10.00|10.00",
-         "type":"multiple"
-      },
-      {
-         "name":"Enchiladas",
-         "desc":"acompañado con 4 tortillas de harina de trigo|Pollo con salsa roja|Pollo con salsa verde|Pollo con mole",
          "price":"10.00|10.00|10.00",
          "type":"multiple"
       },
