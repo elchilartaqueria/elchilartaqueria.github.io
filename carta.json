@@ -115,27 +115,49 @@
    ],
    "bebidas":{
       "Cerveza Botella":[
-         "Corona 210ml 1.90",
-         "Corona 355ml 2.90",
-         "Pacífico 355ml 2.90",
-         "Modelo_Especial 355ml 2.90",
-         "Negra_Modelo 355ml 2.90",
-         "Tropical (cerveza con limón) 333ml 2.70",
-         "Cerveza_sin_alcohol 333ml 2.70"
+      	{"name":"Corona","desc":"|Corona 210ml|Corona 355ml","price":"1.90|2.90","type":"multiple"},
+      	{"name":"Pacífico","desc":"355ml","price":"2.90","type":"static"},
+        {"name":"Modelo Especial","desc":"355ml","price":"2.90","type":"static"},
+        {"name":"Negra Modelo","desc":"355ml","price":"2.90","type":"static"},
+        {"name":"Tropical","desc":"(cerveza con limón) 355ml","price":"2.70","type":"static"},
+        {"name":"Cerveza sin alcohol","desc":"333ml","price":"2.70","type":"static"}
       ],
       "Refrescos":[
-         "Coca Cola 2.00",
-         "Coca Cola Zero 2.00",
-         "Coca Cola Zero sin cafeína 2.00",
-         "Fanta Naranja 2.00",
-         "Fanta Limón 2.00",
-         "Nestea 2.20",
-         "Trina 2.20",
-         "Aquarius limón 2.20",
-         "Aquarius naranja 2.20",
-         "Zumo de Piña 2.00",
-         "Zumo de Melocotón 2.00",
-         "Mosto 2.00"
-      ]
+      	 {"name":"Coca Cola","desc":"|Coca Cola|Coca Cola Zero|Coca Cola Zero (sin cafeína)","price":"2.00|2.00|2.00","type":"multiple"},
+         {"name":"Fanta","desc":"|Limón|Naranja","price":"2.00|2.00","type":"multiple"},
+         {"name":"Nestea","desc":"","price":"2.20","type":"static"},
+         {"name":"Trina","desc":"","price":"2.20","type":"static"},
+         {"name":"Aquarius","desc":"|Limón|Naranja","price":"2.20|2.20","type":"multiple"},
+         {"name":"Zumos","desc":"|Piña|Melocotón|Mosto","price":"2.00|2.00|2.00","type":"multiple"},
+         {"name":"Aguas de sabores","desc":"|Jamaica|Horchata Mexicana|Tamarindo|Guayaba","price":"2.00|2.00|2.00|2.00","type":"multiple"},
+         {"name":"Agua","desc":"|Sin gas|Con gas","price":"1.20|2.50","type":"multiple"}
+      ],
+      "Cerveza_Copa":[
+      	{"name":"Caña","desc":"","price":"1.40","type":"static"},
+      	{"name":"Doble","desc":"","price":"2.30","type":"static"},
+		{"name":"Jarra","desc":"","price":"3.50","type":"static"}
+      ],
+	  "Cócteles":[
+	  	{"name":"Micheladas","desc":"","price":"6.00","type":"static"},
+		{"name":"Chelada","desc":"","price":"5.00","type":"static"}
+	  ],
+	  "Paloma":[
+  	    {"name":"Tequila con toronja","desc":"","price":"8.00","type":"static"},
+		{"name":"Tequila con limón","desc":"","price":"6.00","type":"static"}
+	  ],
+	  "Margaritas":[
+	  	{"name":"Clásica","desc":"","price":"6.00","type":"static"},
+		{"name":"De frutas","desc":"","price":"6.50","type":"static"}
+	  ],
+	  "Mezcal":[
+	  	{"name":"Alacrán","desc":"(100% Agave)","price":"8.50","type":"static"}
+	  ],
+	  "Tequilas":[
+	  	{"name":"Cuervo Blanco","desc":"","price":"3.50","type":"static"},
+	  	{"name":"Cuervo Reposado","desc":"","price":"4.00","type":"static"},
+	  	{"name":"Mala Vida Blanco","desc":"","price":"7.30","type":"static"},
+	  	{"name":"Mala Vida Reposado","desc":"","price":"8.20","type":"static"},
+		{"name":"Don Julio","desc":"","price":"9.00","type":"static"}
+	  ]
    }
 }
