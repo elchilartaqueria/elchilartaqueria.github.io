@@ -26,7 +26,7 @@
       },
       {
          "name":"Flautas",
-         "desc":"(3 flautas con ensalada)|Pollo|Ternera",
+         "desc":"con ensalada|Pollo|Ternera",
          "price":"5.00|5.00",
          "type":"multiple"
       },
@@ -44,7 +44,7 @@
       },
       {
          "name":"Quesadillas",
-         "desc":"3 tortillas de maíz o harina de trigo con:|Champiñones|Tinga poblana (ternera y toque picante)|Chicharrón prensado|Flor de calabaza|Huitlacoche",
+         "desc":"con tortillas de maíz o harina de trigo con:|Champiñones|Tinga poblana (ternera y toque picante)|Chicharrón prensado|Flor de calabaza|Huitlacoche",
          "price":"5.00|5.50|5.50|5.50|5.50",
          "type":"multiple"
       }
