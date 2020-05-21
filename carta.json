@@ -87,36 +87,34 @@
          "desc":"acompañado con 4 tortillas de harina de trigo|Pollo con salsa roja|Pollo con salsa verde|Pollo con mole",
          "price":"10.00|10.00|10.00",
          "type":"multiple"
-      }
-   ],
-   "tacos":[
+      },
       {
-         "name":"Pastor",
-         "desc":"3 tacos, con filete de cerdo asado con piña, cebolla y cilantro",
+         "name":"Taco Pastor",
+         "desc":"con filete de cerdo asado con piña, cebolla y cilantro",
          "price":"9.00",
          "type":"static"
       },
       {
-         "name":"Cochinita Pibil estilo Yucatán",
-         "desc":"3 tacos, con magro de adobo de cerdo con cebolla morada y lima",
+         "name":"Taco Cochinita Pibil estilo Yucatán",
+         "desc":"con magro de adobo de cerdo con cebolla morada y lima",
          "price":"9.00",
          "type":"static"
       },
       {
-         "name":"Chicharrón en salsa verde",
-         "desc":"3 tacos con chicharrón con tomatillo verde y chili de árbol",
+         "name":"Taco Chicharrón en salsa verde",
+         "desc":"con chicharrón con tomatillo verde y chili de árbol",
          "price":"10.00",
          "type":"static"
       },
       {
-         "name":"Carnitas a la michoacana",
-         "desc":"3 tacos con adobo de cerdo con nopales y salsa de aguacate",
+         "name":"Taco Carnitas a la michoacana",
+         "desc":"con adobo de cerdo con nopales y salsa de aguacate",
          "price":"10.00",
          "type":"static"
       },
       {
          "name":"Alambre",
-         "desc":"4 tacos con filete de ternera, bacón, pimiento rojo y verde, y queso",
+         "desc":"con filete de ternera, bacón, pimiento rojo y verde, y queso",
          "price":"10.00",
          "type":"static"
       }
