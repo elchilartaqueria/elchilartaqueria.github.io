@@ -114,7 +114,7 @@
       }
    ],
    "bebidas":{
-      "Cerveza Botella":[
+      "Cerveza_Botella":[
       	{"name":"Corona","desc":"|Corona 210ml|Corona 355ml","price":"1.90|2.90","type":"multiple"},
       	{"name":"Pacífico","desc":"355ml","price":"2.90","type":"static"},
         {"name":"Modelo Especial","desc":"355ml","price":"2.90","type":"static"},
